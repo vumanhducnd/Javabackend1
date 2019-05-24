@@ -46,6 +46,8 @@ public class KhachHang {
         this.ten = ten;
         this.diaChi = diaChi;
     }
+// clgt
+
     
 }
 

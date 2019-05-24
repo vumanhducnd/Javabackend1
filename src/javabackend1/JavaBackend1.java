@@ -24,10 +24,14 @@ public class JavaBackend1 {
         kh01.ten= "Nguyen Van A";
         kh01.diaChi="Ha Noi";
         System.out.println("Xin chao Ban :"+kh01.ten+" diachi: "+kh01.diaChi );
+<<<<<<< HEAD
 
         System.out.println("Tôi là Duc xin chao" );
 
         
+=======
+        System.out.println("ThÃªm status");
+>>>>>>> c43921963cde1a8a4916bde271c5598ee4b2ce14
     }
     
 }
