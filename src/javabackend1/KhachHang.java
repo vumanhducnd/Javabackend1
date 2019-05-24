@@ -14,6 +14,9 @@ public class KhachHang {
   public  String ten;
   public  String diaChi;
 
+    KhachHang() {
+    }
+
     public int getMa() {
         return ma;
     }
@@ -35,6 +38,12 @@ public class KhachHang {
     }
 
     public void setDiaChi(String diaChi) {
+        this.diaChi = diaChi;
+    }
+
+    public KhachHang(int ma, String ten, String diaChi) {
+        this.ma = ma;
+        this.ten = ten;
         this.diaChi = diaChi;
     }
     
