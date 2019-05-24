@@ -10,5 +10,9 @@ package javabackend1;
  * @author vuman_000
  */
 public class KhachHang {
+  public  int ma;
+  public  String ten;
+  public  String diaChi;
     
 }
+

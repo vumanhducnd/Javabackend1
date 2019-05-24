@@ -16,6 +16,15 @@ public class JavaBackend1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //Cach tao obj
+        KhachHang kh01;
+        kh01= new KhachHang();
+        kh01.ma=1;
+        kh01.ten= "Nguyen Van A";
+        kh01.diaChi="Ha Noi";
+        System.out.println("Xin chao Ban :"+kh01.ten+" diachi: "+kh01.diaChi );
+        
     }
     
 }
