@@ -24,7 +24,7 @@ public class JavaBackend1 {
         kh01.ten= "Nguyen Van A";
         kh01.diaChi="Ha Noi";
         System.out.println("Xin chao Ban :"+kh01.ten+" diachi: "+kh01.diaChi );
-        
+        System.out.println("Thêm status");
     }
     
 }
